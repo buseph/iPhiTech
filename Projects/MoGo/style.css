@@ -1,0 +1,28 @@
+/* ------------- BANNER -------------- */
+#banner {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(244, 140, 130, 0.9),
+      rgba(252, 226, 137, 0.9)
+    ),
+    url(/assets/Layer\ 15.png);
+}
+
+#banner h1 {
+  color: #fff;
+}
+
+#banner h1:first-child {
+  font-family: "Kaushan Script", cursive;
+  font-size: 3rem;
+}
+
+#banner h1:last-child {
+  font-family: "Montserrat", sans-serif;
+  font-size: 6rem;
+}
