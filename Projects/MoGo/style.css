@@ -13,6 +13,13 @@
   margin: 3rem 0;
 }
 
+.dash {
+  display: block;
+  background-color: #e88383;
+  height: 0.2rem;
+  width: 4rem;
+}
+
 /* ------------- NAVBAR -------------- */
 .navbar {
   background-color: transparent !important;
@@ -313,6 +320,9 @@
 
 #service-2 p {
   margin-bottom: 5rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 15px;
 }
 
 #service-2 .image {
@@ -383,7 +393,6 @@
 #qoute {
   padding: 4rem 0;
   background-color: #f8f8f8;
-  /* background-color: #95e1d3; */
 }
 
 #qoute .container {
@@ -398,7 +407,163 @@
 }
 
 #qoute .carousel-item img {
+  box-sizing: border-box;
   border: 3px solid #95e1d3;
   padding: 2rem;
-  height: 7rem;
+  height: 8rem;
+}
+
+#qoute .carousel-item h4 {
+  font-family: "Kaushan Script", cursive;
+  color: #000;
+  font-size: 24px;
+}
+
+#qoute .carousel-control-next-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%239999'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e") !important;
+}
+
+#qoute .carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%239999'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
+}
+
+/* ------------- TEAM -------------- */
+
+#team {
+  padding: 7rem 0;
+}
+
+#team .container {
+  padding: 0 8rem;
+}
+
+#team p {
+  color: #999999;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  margin-bottom: 4rem;
+}
+
+#team .image {
+  height: 21rem;
+  width: 17.3rem;
+  overflow: hidden;
+}
+
+#team .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#team .images .row {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+#team .images .col {
+  text-align: center;
+}
+
+#team .pic-1 {
+  object-position: calc(-4rem);
+}
+
+#team .pic-2 {
+  object-position: -40px -25px;
+  transform: scale(1.2);
+}
+
+#team .pic-3 {
+  object-position: -120px 25px;
+  transform: scale(1.2);
+}
+
+#team .images h5 {
+  margin-top: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 0.5;
+}
+
+#team .images span {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  color: #999999;
+}
+
+/* ------------- LOGOS -------------- */
+#logos {
+  padding: 4rem 0;
+  background-color: #f8f8f8;
+}
+#logos .container {
+  padding: 0 8rem;
+}
+
+#logos img {
+  width: 55rem;
+}
+
+/* ------------- WORK -------------- */
+
+#work {
+  padding: 5rem 0 0 0;
+}
+
+#work .container {
+  padding: 0 8rem;
+}
+
+#work p {
+  color: #999999;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  margin-bottom: 7rem;
+}
+
+#work .left-images {
+  width: 227px;
+  height: 200px;
+  overflow: hidden;
+}
+
+#work .left-images img,
+#work .right-images img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#work .padding-0 {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+#work .left-image1 {
+  object-position: -1px -7rem;
+}
+
+#work .left-image2 {
+  object-position: -1px -6rem;
+}
+
+#work .left-image3 {
+  object-position: -4rem -0rem;
+}
+
+#work .right-image-1 {
+  height: 400px;
+  width: 227px;
+}
+
+#work .right-image-2 {
+  height: 200px;
+}
+
+#work .right-image-3 {
+  object-position: -0rem -1rem;
 }
