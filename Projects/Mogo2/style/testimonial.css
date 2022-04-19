@@ -1,0 +1,29 @@
+#testimonial {
+  padding: 4rem 2rem;
+  background: #f8f8f8;
+}
+
+#testimonial div div {
+  display: flex;
+  margin-top: 1.5rem;
+}
+
+#testimonial p {
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  color: #999999;
+  font-style: italic;
+  line-height: 2;
+}
+
+#testimonial h4 {
+  font-family: "Kaushan Script", cursive;
+  font-size: 1.3rem;
+  margin-left: 1rem;
+}
+
+#testimonial .divider {
+  background-color: #e88383;
+  position: relative;
+  bottom: 1rem;
+}

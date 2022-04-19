@@ -1,0 +1,80 @@
+#blog {
+  padding: 4rem 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#blog .blogs {
+  margin-top: 4rem;
+  display: grid;
+  justify-content: center;
+  grid-row-gap: 3rem;
+}
+
+#blog .blog-item {
+  max-width: 30rem;
+  position: relative;
+}
+
+#blog .blog-item .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#blog .blog-item h4 {
+  margin-top: 1rem;
+  font-family: "montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+#blog .blog-item p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9rem;
+  color: #999999;
+}
+#blog .icons {
+  display: flex;
+}
+
+#blog .icons span {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  color: #b3b3b3;
+  font-style: italic;
+  display: inline;
+}
+
+#blog .bi {
+  color: #95e1d3;
+}
+
+#blog .box {
+  width: 3.8rem;
+  background: #95e1d3;
+  position: absolute;
+  top: 11rem;
+  left: -1rem;
+  z-index: 1;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 0.3rem 1.5rem 0.5rem 1.5rem;
+}
+
+#blog .box h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 0.5;
+}
+
+#blog .box span {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-style: italic;
+}

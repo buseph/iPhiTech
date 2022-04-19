@@ -1,0 +1,22 @@
+header {
+  padding: 1rem 2rem;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  user-select: none;
+}
+
+header h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.6rem;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+header .bi {
+  font-size: 2rem;
+  cursor: pointer;
+}

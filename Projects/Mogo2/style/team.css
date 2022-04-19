@@ -1,0 +1,37 @@
+#team {
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+#team .team-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-row-gap: 3rem;
+}
+
+#team div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#team .team-container .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#team h5 {
+  margin-top: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 0.5;
+}
+
+#team span {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  color: #999999;
+}
