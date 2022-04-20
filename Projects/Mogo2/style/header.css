@@ -17,6 +17,44 @@ header h1 {
 }
 
 header .bi {
-  font-size: 2rem;
   cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+header .bi-list {
+  font-size: 2rem;
+}
+
+header ul {
+  display: none;
+  font-size: 1.1rem;
+}
+
+header li {
+  list-style: none;
+  float: left;
+  margin-left: 2rem;
+}
+
+header li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "montserrat", sans-serif;
+  transition: 0.2s ease-in-out;
+}
+
+:is(header li, header ul) a:hover,
+.bi:hover {
+  color: #fce289;
+}
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 992px) {
+  header .bi-list {
+    display: none;
+  }
+
+  header ul {
+    display: block;
+  }
 }
