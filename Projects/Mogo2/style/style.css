@@ -4,9 +4,13 @@
   padding: 0;
   user-select: none;
 }
+body {
+  display: flex;
+  flex-direction: column;
+}
 
 .section-title-1 {
-  font-size: 1.5rem;
+  font-size: clamp(1.5rem, 5vw, 2rem);
   font-family: "Kaushan Script", cursive;
   text-align: center;
   color: #333333;
@@ -14,7 +18,7 @@
 
 .section-title-2 {
   font-family: "Montserrat", sans-serif;
-  font-size: 1.8rem;
+  font-size: clamp(1.5rem, 5vw, 2rem);
   text-align: center;
   font-weight: 700;
   color: #333333;
@@ -46,3 +50,10 @@
 font-family: 'Kaushan Script', cursive;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Roboto', sans-serif; */
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 900px) {
+  :is(#about, #service-2, #team, #work) p {
+    padding: 0 10rem;
+  }
+}

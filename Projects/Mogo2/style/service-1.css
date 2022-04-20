@@ -43,3 +43,9 @@
   line-height: 1.5;
   font-size: 1rem;
 }
+
+@media only screen and (min-width: 778px) {
+  #service-1 .services-container {
+    grid-template-columns: 1fr 1fr;
+  }
+}
