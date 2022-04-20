@@ -1,11 +1,18 @@
 #testimonial {
   padding: 4rem 2rem;
   background: #f8f8f8;
+  display: flex;
+  justify-content: center;
 }
 
-#testimonial div div {
+#testimonial .name {
   display: flex;
   margin-top: 1.5rem;
+}
+
+#testimonial .testimonial-container {
+  max-width: 1200px;
+  display: grid;
 }
 
 #testimonial p {
@@ -26,4 +33,27 @@
   background-color: #e88383;
   position: relative;
   bottom: 1rem;
+}
+
+#testimonial .icon {
+  display: none;
+  color: #95e1d3;
+  font-size: 5rem;
+}
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 575px) {
+  #testimonial .testimonial-container {
+    grid-template-columns: 1fr 5fr;
+  }
+
+  #testimonial .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #testimonial .paragraph {
+    padding-left: 2rem;
+  }
 }

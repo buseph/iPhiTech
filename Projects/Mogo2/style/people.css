@@ -1,6 +1,12 @@
 #people {
   padding: 4rem 2rem;
   position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+#people .people-container {
+  max-width: 1200px;
 }
 
 #people::after {
@@ -19,6 +25,7 @@
   margin-top: 5rem;
   display: grid;
   grid-row-gap: 4rem;
+  max-width: 650px;
 }
 
 #people .clients .client {
@@ -62,4 +69,13 @@
 #people .client .divider {
   background-color: #e88383;
   margin: 1rem 0;
+}
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 992px) {
+  #people .clients {
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 2rem;
+    max-width: 1200px;
+  }
 }

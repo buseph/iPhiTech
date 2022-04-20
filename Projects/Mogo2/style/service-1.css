@@ -1,6 +1,8 @@
 #service-1 {
   padding: 4rem 2rem;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 #service-1 .services-container {
@@ -8,6 +10,10 @@
   display: grid;
   margin-top: 4rem;
   grid-row-gap: 3rem;
+}
+
+#service-1 .main-container {
+  max-width: 1200px;
 }
 
 #service-1 .service {

@@ -2,12 +2,16 @@
   background-color: #95e1d3;
   color: #fff;
   padding: 4rem 2rem;
+  display: flex;
+  justify-content: center;
 }
 
 #facts .facts-container {
   display: grid;
   text-align: center;
   grid-row-gap: 4rem;
+  width: 100%;
+  max-width: 1200px;
 }
 
 #facts h1 {

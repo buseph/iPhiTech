@@ -1,6 +1,12 @@
 #about {
   padding: 4rem 2rem;
   text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+#about .about-container {
+  width: 1200px;
 }
 
 #about .story {

@@ -1,6 +1,8 @@
 #service-2 {
   padding: 4rem 2rem;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 #service-2 .service-container {
@@ -9,9 +11,13 @@
   grid-row-gap: 2rem;
 }
 
+#service-2 .main-container {
+  max-width: 1200px;
+}
+
 #service-2 .image {
   overflow: hidden;
-  height: 300px;
+  width: 100%;
 }
 
 #service-2 .image img {
@@ -77,4 +83,20 @@
 
 #service-2 .accordion-item {
   margin-bottom: 1rem;
+}
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 700px) {
+  #service-2 {
+    padding: 6rem 2rem 4rem 2rem;
+    text-align: center;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  #service-2 .service-container {
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 0;
+    grid-column-gap: 2rem;
+  }
 }

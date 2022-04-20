@@ -1,9 +1,15 @@
 footer {
   padding: 4rem 2rem;
   background-color: #f8f8f8;
+  display: flex;
+  justify-content: center;
+}
+
+footer .footer-container {
   display: grid;
   grid-template-columns: 1fr;
   grid-row-gap: 3rem;
+  max-width: 1200px;
 }
 
 footer h1 {
@@ -82,7 +88,6 @@ footer .btn {
 
 footer .blogs-image {
   overflow: hidden;
-  width: 9.5rem;
 }
 
 footer .blogs img {
@@ -144,8 +149,30 @@ footer .credit {
   text-align: center;
 }
 
-footer .credit p {
+.credit {
+  background-color: #f8f8f8;
+}
+
+.credit p {
   font-family: "Montserrat", sans-serif;
   font-size: 0.9rem;
   line-height: 0.5;
+  text-align: center;
+}
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 992px) {
+  footer .footer-container {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-gap: 0rem;
+    grid-column-gap: 3rem;
+  }
+
+  footer .blogs-image {
+    max-width: 8.3rem;
+  }
+
+  footer .instagram .images {
+    max-width: 20rem;
+  }
 }
