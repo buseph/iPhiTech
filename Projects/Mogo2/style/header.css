@@ -1,0 +1,67 @@
+header {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+header .header-container {
+  padding: 2rem 2rem;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  max-width: 1200px;
+}
+
+header h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.6rem;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+header .bi {
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+header .bi-list {
+  font-size: 2rem;
+}
+
+header ul {
+  display: none;
+  font-size: 1.1rem;
+}
+
+header li {
+  list-style: none;
+  float: left;
+  margin-left: 2rem;
+}
+
+header li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "montserrat", sans-serif;
+  transition: 0.2s ease-in-out;
+}
+
+:is(header li, header ul) a:hover,
+.bi:hover {
+  color: #fce289;
+}
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 992px) {
+  header .bi-list {
+    display: none;
+  }
+
+  header ul {
+    display: block;
+  }
+}

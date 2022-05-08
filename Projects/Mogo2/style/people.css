@@ -1,0 +1,81 @@
+#people {
+  padding: 4rem 2rem;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+#people .people-container {
+  max-width: 1200px;
+}
+
+#people::after {
+  content: "";
+  background: url(../assets/happy-client/bg-happy-client.jpg);
+  background-size: cover;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+#people .clients {
+  margin-top: 5rem;
+  display: grid;
+  grid-row-gap: 4rem;
+  max-width: 650px;
+}
+
+#people .clients .client {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  grid-column-gap: 1.5rem;
+}
+
+#people .client .image {
+  overflow: hidden;
+  border-radius: 100%;
+  width: 8rem;
+  height: 8rem;
+}
+
+#people .client .image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#people .client h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+#people .client h4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 300;
+  font-style: italic;
+}
+
+#people .client p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9rem;
+  color: #9999;
+}
+
+#people .client .divider {
+  background-color: #e88383;
+  margin: 1rem 0;
+}
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 992px) {
+  #people .clients {
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 2rem;
+    max-width: 1200px;
+  }
+}

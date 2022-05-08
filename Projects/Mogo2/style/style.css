@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.section-title-1 {
+  font-size: clamp(1.5rem, 5vw, 2rem);
+  font-family: "Kaushan Script", cursive;
+  text-align: center;
+  color: #333333;
+}
+
+.section-title-2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: clamp(1.5rem, 5vw, 2rem);
+  text-align: center;
+  font-weight: 700;
+  color: #333333;
+}
+
+.divider {
+  display: block;
+  height: 0.2rem;
+  width: 4rem;
+  margin-top: 2rem;
+}
+
+:is(#about, #service-1, #service-2, #feature, #team, #work, #people, #blog, #map)
+  .divider {
+  background-color: #e88383;
+  margin: 2rem auto 0 auto;
+}
+
+:is(#about, #service-2, #team, #work) p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #999999;
+  margin: 2rem 0 3rem 0;
+  line-height: 1.5;
+}
+
+/* 
+font-family: 'Kaushan Script', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 900px) {
+  :is(#about, #service-2, #team, #work) p {
+    padding: 0 10rem;
+  }
+}

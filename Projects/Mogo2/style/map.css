@@ -1,0 +1,33 @@
+#map {
+  padding: 4rem 0 4rem 0;
+  color: #e88383;
+  display: block;
+  position: relative;
+  text-align: center;
+}
+
+#map::after {
+  content: "";
+  background: url(../assets/map/bg-map.jpg);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#map h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.8rem;
+  text-align: center;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+#map .bi {
+  font-size: 2rem;
+  cursor: pointer;
+}

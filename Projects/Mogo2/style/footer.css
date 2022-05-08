@@ -1,0 +1,178 @@
+footer {
+  padding: 4rem 2rem;
+  background-color: #f8f8f8;
+  display: flex;
+  justify-content: center;
+}
+
+footer .footer-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-row-gap: 3rem;
+  max-width: 1200px;
+}
+
+footer h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 46px;
+  color: #cccccc;
+}
+
+.mogo,
+.blogs,
+.instagram {
+  width: 100%;
+  max-width: 35rem;
+  justify-self: center;
+}
+
+/* ========================== MOGO ========================== */
+
+footer .mogo p {
+  font-family: "Roboto", sans-serif;
+  color: #cccccc;
+}
+
+footer .followers {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+
+footer .followers span {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+footer .social span {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #cccccc;
+  font-style: italic;
+  display: inline;
+}
+
+footer .social i {
+  cursor: pointer;
+  color: #95e1d3;
+}
+
+footer .form-control {
+  border-radius: 0;
+  border-color: #ced4da;
+  height: 3rem;
+}
+
+footer .form-control:focus {
+  box-shadow: none;
+  border-radius: 0;
+  border-color: #ced4da;
+}
+
+footer .form-control::placeholder {
+  font-family: "Roboto", sans-serif;
+  color: #cccccc;
+  font-style: italic;
+}
+
+footer .btn {
+  background-color: #95e1d3;
+  border-radius: 0;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  padding: 0 2rem;
+}
+
+/* ========================== BLOGS ========================== */
+
+footer .blogs-image {
+  overflow: hidden;
+}
+
+footer .blogs img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+footer h6 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+footer .blogs span {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #cccccc;
+  font-style: italic;
+}
+
+footer h5 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+/* ========================== INSTAGRAM ========================== */
+
+footer .instagram .insta-image {
+  width: 100%;
+}
+
+footer .instagram .images {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding-right: 2rem;
+  max-width: 30rem;
+  grid-gap: 0.2rem;
+}
+
+footer .instagram img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+footer .view-more {
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  font-style: italic;
+  display: inline;
+  cursor: pointer;
+  position: relative;
+  font-weight: 300;
+}
+
+footer .credit {
+  text-align: center;
+}
+
+.credit {
+  background-color: #f8f8f8;
+}
+
+.credit p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9rem;
+  line-height: 0.5;
+  text-align: center;
+}
+
+/* =============== RESPONSIVE  =============== */
+@media only screen and (min-width: 992px) {
+  footer .footer-container {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-gap: 0rem;
+    grid-column-gap: 3rem;
+  }
+
+  footer .blogs-image {
+    max-width: 8.3rem;
+  }
+
+  footer .instagram .images {
+    max-width: 20rem;
+  }
+}
