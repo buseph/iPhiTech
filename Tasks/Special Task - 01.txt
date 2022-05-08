@@ -1,0 +1,22 @@
+Project: Exquise Car
+
+Task Link: 		
+https://docs.google.com/document/d/15BQcDcHbDCBjUG0sRl1DzUwRhCRlgxpBQoeiK2iP-SE/edit
+
+Done:
+1. Created page title section.
+2. Created story section.
+	2.1 Added image.
+	2.2 Added texts.
+3. Created timeline section.
+	3.1 Added timeline heading title.
+	3.2 Added timeline block.
+	3.3 Modified timeline block.
+	3.4 Added schedule button.
+
+IMGUR:
+https://imgur.com/a/hXQfuBH
+
+GDRIVE:
+https://drive.google.com/file/d/1u4nn5FKEmNOFWL4UnYDDI16Pdb40E6jm/view?usp=sharing
+	

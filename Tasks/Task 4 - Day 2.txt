@@ -1,0 +1,24 @@
+#Interns Project  #04 - Day 2
+Wordpress Introduction  - Building landing page
+
+Task Link: 
+https://jewel-saturn-3da.notion.site/Interns-Project-04-63d7e664556f492cb8b6bd990e37b5af
+
+Mockup:
+https://adclients.co/welcome-1
+
+Done: [08:00:00] (Rendered hrs)
+1. Done tablet size responsive.
+2. Done mobile size responsive.
+3. Done task.
+
+IMGUR
+Desktop: https://imgur.com/a/BS7ukAl
+Tablet: https://imgur.com/a/xkjjlFH
+Mobile: https://imgur.com/a/nsF4lrv
+
+GOOGLE DRIVE
+https://drive.google.com/file/d/1I4wyUFTMgiDanxkRJ2CpmlxpSdIqmnxs/view?usp=sharing
+
+VIDYARD
+https://share.vidyard.com/watch/aDact1wyfTmS6GLimSXmG3?

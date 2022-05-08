@@ -1,0 +1,23 @@
+#Interns Project  #6
+Optimization Training
+
+Task Link: 		
+https://jewel-saturn-3da.notion.site/Interns-Project-6-Optimization-Training-717334c7606f48c3ba33d659e5cf3c9e
+
+Website Link:
+https://www.bobbibrowncosmetics.com/
+
+Done:
+1. Read "How to Optimize WordPress" documentation - https://docs.google.com/document/d/1cNbIOZ1FqMapjcsZbtkIyt3jPzS2OHjo_eqUJX82iTg/edit
+2. Analyzed Speed Optimization Instruction/Guide - https://docs.google.com/document/d/1P55bWASvxjMBlq6ScusRDIJQF_mhLUH1RX8Y9Sty_a0/edit](https://docs.google.com/document/d/1P55bWASvxjMBlq6ScusRDIJQF_mhLUH1RX8Y9Sty_a0/edit
+3. Watched Video Instruction - https://www.loom.com/share/67c3072eb9cb486c99c80884d733bab5
+4. Tested website using Page Speed Insight
+5. Tested website using GTMetrix
+6. Wrote documentation about the test.
+
+Ouput:
+https://docs.google.com/document/d/1hv8SkNvefOxT96AlmOQxxxpqqxImSUXnolBVGbXdc78/edit
+
+VIDYARD:
+https://share.vidyard.com/watch/xvrDJcbVdD7DNckXFXsCnW?
+

@@ -1,0 +1,23 @@
+Interns Project #02 - Day 2
+Wordpress Introduction  - Building landing page
+
+Task Link: 
+https://scarlet-radon-139.notion.site/Interns-Project-02-0788d8502ab24c49b055552a0fa412c2
+
+Done: [08:00:00] (Rendered hrs)
+1. Finished About section.
+2. Added feature section.
+3. Added gallery section.
+4. Added contact section.
+5. Watched Elementor Responsive 101: All You Need to Know! https://www.youtube.com/watch?v=EqFxeluk4U4
+6. Begin doing the responsive part.
+7. Joined movie night event.
+
+IMGUR:
+https://imgur.com/a/k62YVf5
+
+Roadblock:
+Responsive part of landing page.
+
+Next:
+Continue the task.

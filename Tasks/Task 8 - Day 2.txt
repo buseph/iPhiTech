@@ -1,0 +1,67 @@
+#Interns Project  #8 - Day 02
+Basic JavaScript
+
+Task Link: 		
+https://jewel-saturn-3da.notion.site/Interns-Project-8-0212b12691994687880863b92cd850cb
+
+Done:
+1. Comparison with the Strict Inequality Operator
+2. Comparison with the Greater Than Operator
+3. Comparison with the Greater Than Or Equal To Operator
+4. Comparison with the Less Than Operator
+5. Comparison with the Less Than Or Equal To Operator
+6. Comparisons with the Logical And Operator
+7. Comparisons with the Logical Or Operator
+8. Introducing Else Statements
+9. Introducing Else If Statements
+10. Logical Order in If Else Statements
+12. Chaining If Else Statements
+13. Golf Code
+14. Selecting from Many Options with Switch Statements
+15. Adding a Default Option in Switch Statements
+16. Multiple Identical Options in Switch Statements
+17. Replacing If Else Chains with Switch
+18. Returning Boolean Values from Functions
+19. Return Early Pattern for Functions
+20. Counting Cards
+21. Build JavaScript Objects
+22. Accessing Object Properties with Dot Notation
+23. Accessing Object Properties with Bracket Notation
+24. Accessing Object Properties with Variables
+25. Updating Object Properties
+26. Add New Properties to a JavaScript Object
+27. Delete Properties from a JavaScript Object
+28. Using Objects for Lookups
+29. Testing Objects for Properties
+30. Manipulating Complex Objects
+31. Accessing Nested Objects
+32. Accessing Nested Arrays
+33. Record Collection
+34. Iterate with JavaScript While Loops
+35. Iterate with JavaScript For Loops
+36. Iterate Odd Numbers With a For Loop
+37. Count Backwards With a For Loop
+38. Iterate Through an Array with a For Loop
+39. Nesting For Loops
+40. Iterate with JavaScript Do...While Loops
+41. Replace Loops using Recursion
+42. Profile Lookup
+43. Generate Random Fractions with JavaScript
+44. Generate Random Whole Numbers with JavaScript
+45. Generate Random Whole Numbers within a Range
+46. Use the parseInt Function
+47. Use the parseInt Function with a Radix
+48. Use the Conditional (Ternary) Operator
+49. Use Multiple Conditional (Ternary) Operators
+50. Use Recursion to Create a Countdown
+51. Use Recursion to Create a Range of Numbers
+52. Done video weekly report.
+
+IMGUR:
+https://imgur.com/a/03PZ2zJ
+
+VIDYARD:
+https://share.vidyard.com/watch/mYebMabHs7Wsy3B5dQXB5v?
+
+
+

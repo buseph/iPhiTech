@@ -1,0 +1,16 @@
+#Interns Project  #9 - Day 01
+Basic PHP
+
+Task Link: 		
+https://scarlet-radon-139.notion.site/Interns-Project-9-193b2de17af74721839dd3a35a1d94fe
+
+Done:
+1. Add edit function.
+2. Add form validation.
+3. Restyled the website.
+
+VIDYARD:
+https://share.vidyard.com/watch/43tMGxSkmyRXMmH8oxyH77?
+
+GOOGLE DRIVE:
+https://drive.google.com/file/d/1PS7E3b29R9OiJw7MpAP-nVnp0izy-VNG/view?usp=sharing

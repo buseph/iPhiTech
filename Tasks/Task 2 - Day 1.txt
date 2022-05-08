@@ -1,0 +1,25 @@
+Interns Project #02
+Wordpress Introduction  - Building landing page
+
+Done: [08:00:00] (Rendered hrs)
+1. Watched How to Create a Local Wordpress Website using Laragon. https://www.youtube.com/watch?v=kNHhPyp4Ix0
+2. Watched Build a Landing Page with Elementor: Step-by-Step https://www.youtube.com/watch?v=XjS-vPXblpk
+3. Downloaded necessary file and software.
+3. Installed Laragon.
+4. Downloaded the Wordpress local version.
+5. Finished necessary setup to begin creating the landing page.
+6. Installed elementor pro plugin.
+7. Finished banner section.
+8. Finished navigation section.
+9. Begin creating the about section.
+10. Join Meeting with team Joshua.
+
+ROADBLOCKS:
+Medyo nahirapan lang po ako sa pag-install ng wordpress sa device ko. Ilang hours ko pong tinry at dinebug kung anong mali.
+then mga 2pm na po nung naayos ko yung Laragon. Yun lang po dun lang po ako natagalan pero naging okay naman po.
+
+Next:
+Continue the task.
+
+IMGUR
+https://imgur.com/a/8YNLUaz

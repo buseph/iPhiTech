@@ -1,0 +1,14 @@
+Project: Exquise Car
+Task Link:
+https://docs.google.com/document/d/15BQcDcHbDCBjUG0sRl1DzUwRhCRlgxpBQoeiK2iP-SE/edit
+
+Done:
+1. Downloaded assets.
+2. Imported figma project.
+3. Done core value section.
+4. Created testimonial section.
+5. Created "join our team" section.
+6. Created "contact us" section.
+
+IMGUR:
+https://imgur.com/a/FE61BI1

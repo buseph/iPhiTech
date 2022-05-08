@@ -1,0 +1,22 @@
+#Interns Project  #9 - Day 01
+Basic PHP
+
+Task Link: 		
+https://scarlet-radon-139.notion.site/Interns-Project-9-193b2de17af74721839dd3a35a1d94fe
+
+Done:
+1. Read the given w3school tutorial.
+2. Watched PHP CRUD Tutorial with MySQL & Bootstrap 4. - https://www.youtube.com/watch?v=3xRMUDC74Cw
+3. Begin coding.
+	3.1 Created a file directory for the project.
+	3.2 Created index.php and process.php file.
+	3.3 Added input fields for the first name and last name.
+	3.4 Added labels for the inputs.
+	3.5 Added save button.
+	3.6 Created database.
+	3.7 Added data table.
+	3.8 Added saving data function.
+	3.9 Added deleting data function.
+
+Next:
+Finish the task

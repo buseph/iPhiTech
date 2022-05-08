@@ -1,0 +1,22 @@
+Project: Exquise Car
+
+Done:
+1. Done "testimonial" section desktop to mobile responsive.
+2. Done "join our team" section desktop to mobile responsive.
+3. Done "contact" section desktop to mobile responsive.
+4. Created contact page:
+	4.1. Added page title section.
+	4.2  Created contact form section.
+	4.3  Added map section.
+	4.4  Added testimonial section.
+	4.5  Added contact section.
+
+
+IMGUR:
+About Page:
+Desktop: https://imgur.com/a/vfDtgu7
+Tablet: https://imgur.com/a/RhjIKBA
+Mobile: https://imgur.com/a/86bOrJ0
+
+Contact Page:
+https://imgur.com/a/bgfK6dV

@@ -1,0 +1,28 @@
+#Interns Project  #04
+Wordpress Introduction  - Building landing page
+
+Task Link: 
+https://jewel-saturn-3da.notion.site/Interns-Project-04-63d7e664556f492cb8b6bd990e37b5af
+
+Mockup:
+https://adclients.co/welcome-1
+
+Done: [08:00:00] (Rendered hrs)
+1. Saved all the mockup's assets.
+2. Done 11 sections of landing page.
+
+Screenshot:
+https://drive.google.com/file/d/1kdOTMhvMSB_bcIB9TonjNsGpR2NNcoqH/view?usp=sharing
+
+Next: 
+Begin the responsive design.
+
+
+
+
+
+
+
+
+
+
