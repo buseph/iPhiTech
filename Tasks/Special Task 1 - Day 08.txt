@@ -1,0 +1,18 @@
+Project: Exquise Car
+
+Done:
+1. Fixed pricing section.
+2. Created process section on home page.
+	2.1 Done responsive layout.
+3. Created faq section on home page.
+	3.1 Done responsive layout.
+4. Done minor fixes on the appointment section.
+5. Done fixing spacing and font sizes on the about page.
+
+Next:
+Continue fixing spacing and font sizes on appointment page.
+
+IMGUR:
+Desktop: https://imgur.com/a/35mMdWa
+Tablet: https://imgur.com/a/54LzKLl
+Mobile: https://imgur.com/a/gnoCTLm

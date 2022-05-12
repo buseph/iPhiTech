@@ -1,0 +1,10 @@
+Project: Exquise Car - Day 05
+
+Done:
+1. Done contact page tablet responsive.
+2. Done contact page mobile responsive..
+
+IMGUR:
+Desktop: https://imgur.com/a/bgfK6dV
+Tablet: https://imgur.com/a/1kOWNYz
+Mobile: https://imgur.com/a/YgcFGvP

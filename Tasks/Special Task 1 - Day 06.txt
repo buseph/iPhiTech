@@ -1,0 +1,15 @@
+Project: Exquise Car
+
+Done:
+1. Migrated "about" page.
+	1.1 Done minor fixes.
+2. Migrated "appointment page".
+	2.2 Done minor fixes.
+3. Relayout "home" page.
+	3.1 Created navigation bar.
+	3.2 Created banner section.
+	3.4 Created second section.
+4. Created video tutorial of gutenberg using kedence block for night shifters - https://share.vidyard.com/watch/yphNEMNDBvmELW8EsUWmaA?
+
+IMGUR:
+https://imgur.com/a/V6UqUYt

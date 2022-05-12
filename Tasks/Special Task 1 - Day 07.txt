@@ -1,0 +1,13 @@
+Project: Exquise Car
+
+Done:
+1. Done minor fixes in about page.
+2. Attended webinar.
+3. Done navigation bar responsive.
+4. Home page responsive layout.
+	4.1 Done banner section.
+	4.2 Done second section.
+	4.3 Done third section.
+	4.4 Done fourth section.
+	4.5 Fixed testimonial spacing and fonts
+	4.6 Begin fixing pricing section.
