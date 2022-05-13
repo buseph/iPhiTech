@@ -1,0 +1,13 @@
+Interns Project #01
+1. Watched PSD to HTML video.
+2. Watched Tajam Instruction Demo.
+3. Extracted images to png format.
+4. Started banner section.
+    4.1 Added the background image and linear gradient.
+    4.2 Added the texts.
+
+IMGUR
+https://imgur.com/edy8c4H
+
+Next: 
+Continue task

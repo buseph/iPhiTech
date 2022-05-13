@@ -1,0 +1,16 @@
+Daily Report: 
+1. Attended webinar topic: Suicide and Depression: Risk Factors, Warning Signs, and Coping.
+
+Project: Exquise Car 
+Done:
+1. Fixed appointment page's pacing and font sizes.
+2. Done banner section's slider.
+	2.1 Uploaded assets.
+	2.2 Customized kadence's slider block using css.
+3. Done pricing tab.
+	3.1 Uploaded assets.
+	3.2 Created 7th tab.
+	3.3 Added content on each tab.
+	3.4 Customized kadence's tab block using css.
+	3.5 Created a javascript file for customization.
+
