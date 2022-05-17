@@ -1,0 +1,30 @@
+Project: Exquise Car 
+
+QA List:
+https://docs.google.com/spreadsheets/d/1t3AkxwCiACcejL6_jMX2Ptt3IUdAy5YVpc28n9YAPq8/edit#gid=0
+
+Done: 
+1. Fixed header.
+2. Fixed footer.
+3. Fixed QA List: Home Page
+	3.1 Fixed font weight of the footer.
+	3.2 Added spaces between the social icon in the footer section.
+4. Fixed QA List: About Page
+	4.1 Added the missing divider of the contact section.
+	4.2 Make the footer 2 cols when in tablet size.
+	4.3 Make an improvement on the header's contact section by centering each element on mobile size.
+	4.4 Make the testimonial text full width on the tablet.
+	4.5 Done testimonial slider.
+	4.6 Make the banner the same as mockup design.
+	4.7 Make the banner 1 col on tablet size.
+	4.8 Make the person visible on tablet size.
+5. Fixed QA List: Appointment Page:
+	5.1 Make 34px the line height and set the font weight to 400 of navigation bar text.
+	5.2 Make 18px the font-size and set the font weight to 500 of the first text on the banner section.
+	5.3 Set the banner second text of font weight of 600, font-size of 80px and line height of 84px.
+	5.4 Adjusted the yellow dash between the 1st and 2nd section.
+	5.5 Make the testimonial font weight to 400.
+	5.6 Fixed the contact section.
+	5.7 Footer added.
+	5.8 Fixed the navigation section.
+	5.9 Make the contact drop down on mobile size.
