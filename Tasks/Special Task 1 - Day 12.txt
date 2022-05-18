@@ -1,0 +1,47 @@
+Project: Exquise Car 
+
+QA List:
+https://docs.google.com/spreadsheets/d/1t3AkxwCiACcejL6_jMX2Ptt3IUdAy5YVpc28n9YAPq8/edit#gid=0
+
+Done: 
+[Daily Report]
+1. Created a weekly video report.
+
+
+[Service Page]
+1. Updated reusable section.
+2. Updated first section.
+3. Fixed Responsive of the first section
+4. Fixed mobile responsive of the page.
+
+
+[Home Page]
+1. Updated faq contents.
+2. Fixed responsive of faq section.
+
+
+[About Page]
+1. Updated timeline content.
+2. Added qualifications drop down.
+3. Write a script for qualifications drop down.
+
+
+[Appointment Page]
+1. Added vehicle type options.
+2. Added "I agree" check box.
+
+
+[Terms of Service Page]
+1. Created terms of services page.
+2. Added terms text.
+3. Added schedule appointment section.
+4. Fixed responsive layout.
+
+
+[404 Page]
+1. Adjusted the size of "404" text to 290.476px.
+2. Adjusted the font weight and line height of the button.
+3. Fixed the font weight of the contact section.
+4. Fixed overflow content on the right side when on 320px wide.
+5. Fixed all floating dash.
+6. Fixed footer.
