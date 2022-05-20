@@ -1,0 +1,23 @@
+Project: Exquise Car 
+
+QA List:
+https://docs.google.com/spreadsheets/d/1t3AkxwCiACcejL6_jMX2Ptt3IUdAy5YVpc28n9YAPq8/edit#gid=0
+
+Done: 
+[Gallery Page]
+1. Uploaded gallery assets.
+2. Updated gallery images.
+3. Fixed mobile responsive.
+4. Fixed font sizes and weights.
+5. Make the gallery clickable and added pop-up slider.
+
+[Home Page]
+1. Fixed mobile responsive of pricing section.
+2. Updated footer map location.
+3. Fixed banner mobile responsive.
+
+[Service Page]
+1. Updated the pricing section.
+
+
+
