@@ -1,0 +1,129 @@
+#tool {
+  padding: 100px 0;
+  background-color: #222222;
+}
+
+#tool .tool-container {
+  margin: 0 auto;
+  max-width: 1600px;
+  width: 85%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  text-align: center;
+  color: #ecdbba;
+  font-family: "Overpass", sans-serif;
+  grid-column-gap: 2rem;
+  margin-top: 100px;
+}
+
+#tool .img-container {
+  width: 5rem;
+  margin: 0 auto;
+}
+
+#tool h4 {
+  font-size: 30px;
+  margin-top: 15px;
+}
+
+#tool .tool-1,
+#tool .tool-2 {
+  padding: 3rem;
+  border-radius: 15px;
+}
+
+#tool .tool-1 {
+  background-color: #346751;
+}
+
+#tool .tool-2 {
+  background-color: #c84b31;
+}
+
+#tool .tool-1:hover {
+  box-shadow: rgba(200, 75, 49, 0.15) 0px 48px 100px 0px;
+  transform: scale(1.02);
+}
+
+#tool .tool-2:hover {
+  box-shadow: rgba(52, 103, 81, 0.15) 0px 48px 100px 0px;
+  transform: scale(1.02);
+}
+
+@media only screen and (max-width: 1920px) {
+  #tool .tool-1,
+  #tool .tool-2 {
+    padding: 2rem;
+    border-radius: 15px;
+  }
+}
+
+@media only screen and (max-width: 1600px) {
+  #tool .img-container {
+    width: 3rem;
+  }
+  #tool h4 {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  #tool .tool-container {
+    width: 60%;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-gap: 2rem;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #tool .tool-container {
+    width: 80%;
+  }
+
+  #tool .tool-container {
+    margin-top: 50px;
+  }
+
+  #tool {
+    padding: 50px 0;
+  }
+
+  #tool .img-container {
+    width: 2rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #tool .tool-container {
+    width: 60%;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #tool h4 {
+    font-size: 18px;
+    margin-top: 5px;
+  }
+
+  #tool .tool-container {
+    margin-top: 40px;
+  }
+
+  #tool {
+    padding: 40px 0;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  #tool .tool-container {
+    width: 50%;
+    grid-template-columns: 1fr;
+    grid-row-gap: 1rem;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  #tool .tool-container {
+    width: 70%;
+    grid-template-columns: 1fr;
+  }
+}

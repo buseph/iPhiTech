@@ -1,0 +1,148 @@
+#banner {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+#banner .banner-container {
+  width: 85%;
+  max-width: 1600px;
+  padding: 8rem;
+  border-radius: 1rem;
+  border: 2px solid #c84b31;
+}
+
+#banner h1 {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-weight: 700;
+  line-height: 90px;
+  font-size: 80px;
+  color: #ecdbba;
+}
+
+#banner p {
+  margin-top: 2rem;
+  font-size: 30px;
+  font-family: "Overpass", sans-serif;
+  color: #ecdbba;
+}
+
+#banner button {
+  margin-top: 2rem;
+  font-size: 30px;
+  font-family: "Overpass", sans-serif;
+  background-color: #346751;
+  border-color: #346751;
+}
+
+#banner .banner-container span .name {
+  color: #c84b31;
+}
+
+#banner .banner-container span .full-stack {
+  color: #346751;
+}
+
+@media only screen and (max-width: 1680px) {
+  #banner .banner-container {
+    padding: 6rem;
+  }
+}
+
+@media only screen and (max-width: 1600px) {
+  #banner h1 {
+    line-height: 80px;
+    font-size: 70px;
+  }
+  #banner p {
+    font-size: 25px;
+  }
+
+  #banner button {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  #banner h1 {
+    line-height: 70px;
+    font-size: 60px;
+  }
+  #banner p {
+    font-size: 20px;
+  }
+  #banner button {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  #banner .banner-container {
+    margin-top: 0;
+    padding: 5rem;
+  }
+  #banner h1 {
+    line-height: 60px;
+    font-size: 50px;
+  }
+
+  #banner button {
+    margin-top: 1rem;
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #banner h1 {
+    line-height: 50px;
+    font-size: 40px;
+  }
+  #banner p {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #banner {
+    margin-top: 20px;
+  }
+
+  #banner .banner-container {
+    width: 100%;
+    margin-top: 0;
+    padding: 3rem;
+    border-radius: 0;
+    border: none;
+  }
+
+  #banner h1 {
+    line-height: 40px;
+    font-size: 30px;
+  }
+  #banner p {
+    font-size: 16px;
+  }
+  #banner button {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  #banner .banner-container {
+    margin-top: 0;
+    padding: 2rem;
+  }
+
+  #banner h1 {
+    line-height: 30px;
+    font-size: 25px;
+  }
+  #banner p {
+    font-size: 14px;
+  }
+  #banner button {
+    margin-top: 0.5rem;
+    font-size: 14px;
+  }
+}

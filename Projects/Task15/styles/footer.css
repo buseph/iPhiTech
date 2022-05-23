@@ -1,0 +1,145 @@
+footer {
+  padding: 100px 0;
+  color: #ecdbba;
+}
+
+footer .footer-container {
+  width: 85%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+footer .links {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+footer .my-name {
+  display: flex;
+}
+
+footer .name .my-image {
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+footer .name h1 {
+  font-family: "bai jamjuree", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  margin-left: 1rem;
+  top: 3px;
+  position: relative;
+}
+
+footer .name p {
+  font-family: "Overpass", sans-serif;
+  font-size: 25px;
+  width: 30rem;
+  margin-top: 20px;
+}
+
+footer .links li {
+  list-style: none;
+  font-size: 25px;
+  font-family: "Overpass", sans-serif;
+  margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 1440px) {
+  footer .name .my-image {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
+
+  footer .name h1 {
+    font-size: 30px;
+  }
+
+  footer .name p {
+    font-size: 20px;
+  }
+
+  footer .links li {
+    font-size: 20px;
+    margin-bottom: 1rem;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  footer .name p {
+    width: 20rem;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  footer .name h1 {
+    font-size: 25px;
+  }
+
+  footer .name p {
+    font-size: 18px;
+  }
+
+  footer .links li {
+    font-size: 18px;
+    margin-bottom: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+}
+
+@media only screen and (max-width: 800px) {
+}
+
+@media only screen and (max-width: 768px) {
+  footer .footer-container {
+    width: 85%;
+    grid-template-columns: 1fr;
+  }
+
+  footer .name h1 {
+    font-size: 25px;
+  }
+
+  footer .name p {
+    font-size: 16px;
+  }
+
+  footer .links li {
+    font-size: 16px;
+    margin-bottom: 0.8rem;
+    margin-left: -2rem;
+    margin-top: 2rem;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+}
+
+@media only screen and (max-width: 480px) {
+  footer .links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  footer .name p {
+    width: 15rem;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+}
+
+@media only screen and (max-width: 360px) {
+}
+
+@media only screen and (max-width: 320px) {
+  footer .name p {
+    width: 13rem;
+  }
+}

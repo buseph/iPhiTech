@@ -1,0 +1,196 @@
+#service {
+  padding: 100px 0;
+}
+
+#service .service-container {
+  width: 85%;
+  max-width: 1600px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 3rem;
+  margin-top: 5rem;
+}
+
+#service .service-container .service {
+  padding: 3rem;
+  border: 2px solid #c84b31;
+  border-radius: 15px;
+}
+
+#service .service-container .service .img-container {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#service .service-container .service {
+  color: #ecdbba;
+}
+
+#service .service-container .service h4 {
+  font-family: "Bai Jamjuree", sans-serif;
+  margin-top: 15px;
+  font-size: 35px;
+}
+
+#service .service-container .service p {
+  font-family: "Overpass", sans-serif;
+  margin-top: 15px;
+  font-size: 25px;
+}
+
+.section-title {
+  color: #ecdbba;
+  text-align: center;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.section-title h1 {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.section-title p {
+  padding-top: 2rem;
+  font-family: "Overpass", sans-serif;
+  font-size: 30px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+#service button {
+  margin-top: 1rem;
+  font-size: 30px;
+  font-family: "Overpass", sans-serif;
+  background-color: #346751;
+  border-color: #346751;
+}
+
+@media only screen and (max-width: 1920px) {
+  #service .service-container .service h4 {
+    font-size: 30px;
+  }
+
+  #service .service-container .service p {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 1680px) {
+  .section-title p {
+    width: 70%;
+  }
+
+  #service .service-container .service {
+    padding: 2rem;
+  }
+}
+
+@media only screen and (max-width: 1600px) {
+  .section-title h1 {
+    font-size: 50px;
+  }
+  .section-title p {
+    padding-top: 1rem;
+    font-size: 25px;
+  }
+
+  #service .service-container .service h4 {
+    font-size: 27px;
+  }
+
+  #service .service-container .service p {
+    font-size: 17px;
+  }
+
+  #service button {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  #service .service-container {
+    grid-column-gap: 2rem;
+  }
+
+  #service button {
+    margin-top: 0.5rem;
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  #service .service-container .service {
+    padding: 1rem;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  #service .service-container {
+    width: 50%;
+    grid-template-columns: 1fr;
+    grid-column-gap: 0;
+    grid-row-gap: 2rem;
+    margin-top: 3rem;
+  }
+
+  #service .service-container .service {
+    padding: 3rem;
+  }
+
+  #service button {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #service .service-container {
+    width: 80%;
+  }
+
+  .section-title h1 {
+    font-size: 40px;
+  }
+  .section-title p {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #service {
+    padding: 50px 0;
+  }
+  #service .service-container .service {
+    padding: 2rem;
+  }
+
+  #service .service-container .service h4 {
+    font-size: 22px;
+  }
+
+  #service .service-container .service p {
+    font-size: 16px;
+    padding-top: 0rem;
+  }
+
+  .section-title h1 {
+    font-size: 25px;
+  }
+
+  .section-title p {
+    font-size: 16px;
+    padding-top: 0.3rem;
+  }
+
+  #service button {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  #service .service-container .service {
+    padding: 1rem;
+  }
+}

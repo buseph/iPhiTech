@@ -1,0 +1,170 @@
+#team {
+  padding: 100px 0;
+  background-color: #222222;
+}
+
+#team .team-container {
+  width: 100rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 100px;
+}
+
+#team .member {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: #ecdbba;
+}
+
+#team .image {
+  width: 30rem;
+}
+
+#team .member .name {
+  background-color: #161616;
+  padding: 2rem;
+  text-align: center;
+  position: relative;
+  margin-top: -80px;
+  min-width: 370px;
+}
+
+#team .name h1 {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 35px;
+}
+
+#team .name span {
+  font-family: "Overpass", sans-serif;
+  font-size: 20px;
+  color: #346751;
+}
+
+#team .socials {
+  font-family: "Overpass", sans-serif;
+  font-size: 25px;
+  color: #c84b31;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+@media only screen and (max-width: 1600px) {
+  #team .image {
+    width: 25rem;
+  }
+
+  #team .team-container {
+    width: 85%;
+    gap: 30px;
+  }
+
+  #team .member .name {
+    padding: 2rem;
+    margin-top: -70px;
+    min-width: 300px;
+  }
+
+  #team .name h1 {
+    font-size: 30px;
+  }
+
+  #team .name span {
+    font-size: 18px;
+  }
+
+  #team .socials {
+    font-size: 20px;
+    gap: 1rem;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  #team .image {
+    width: 20rem;
+  }
+
+  #team .name h1 {
+    font-size: 25px;
+  }
+  #team .member .name {
+    padding: 1.5rem;
+    margin-top: -70px;
+    min-width: 250px;
+  }
+
+  #team .socials {
+    font-size: 18px;
+    gap: 1rem;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  #team .image {
+    width: 17rem;
+  }
+
+  #team .name h1 {
+    font-size: 20px;
+  }
+
+  #team .name span {
+    font-size: 16px;
+  }
+
+  #team .member .name {
+    padding: 1.5rem;
+    min-width: 200px;
+  }
+
+  #team .socials {
+    font-size: 18px;
+    gap: 1rem;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #team .team-container {
+    width: 85%;
+    grid-template-columns: 1fr;
+    gap: 50px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #team {
+    padding: 50px 0;
+  }
+
+  #team .name h1 {
+    font-size: 18px;
+  }
+
+  #team .name span {
+    font-size: 14px;
+  }
+
+  #team .member .name {
+    padding: 1rem;
+    min-width: 180px;
+  }
+
+  #team .socials {
+    font-size: 15px;
+    gap: 0.8rem;
+  }
+
+  #team .team-container {
+    margin-top: 50px;
+    gap: 30px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  #team .image {
+    width: 15rem;
+  }
+}

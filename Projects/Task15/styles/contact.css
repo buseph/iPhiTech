@@ -1,0 +1,228 @@
+#contact {
+  padding: 200px 0;
+  background-color: #222222;
+}
+
+#contact .contact-container {
+  width: 85%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  color: #ecdbba;
+  gap: 3rem;
+}
+
+#contact .contact-container .text h1 {
+  font-size: 50px;
+  font-family: "bai jamjuree", sans-serif;
+  font-weight: 700;
+  width: 40rem;
+}
+
+#contact .contact-container .text p {
+  margin-top: 20px;
+  font-size: 30px;
+  font-family: "Overpass", sans-serif;
+  width: 65rem;
+}
+
+#contact button {
+  margin-top: 1rem;
+  font-size: 30px;
+  font-family: "Overpass", sans-serif;
+  background-color: #346751;
+  border-color: #346751;
+}
+
+#contact .contact-details {
+  display: flex;
+  padding: 3rem;
+  border: 3px solid #ecdbba;
+  border-radius: 10px;
+  min-width: 35rem;
+}
+
+#contact .contact-details:first-child {
+  margin-bottom: 2rem;
+}
+
+#contact .contact-details .icon {
+  font-size: 60px;
+  color: #346751;
+}
+
+#contact .contact-details .inner-text {
+  margin-left: 2rem;
+}
+
+#contact .contact-details .inner-text span {
+  font-family: "Overpass", sans-serif;
+  font-size: 20px;
+  color: #c84b31;
+}
+
+#contact .contact-details .inner-text h2 {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 40px;
+}
+
+@media only screen and (max-width: 1920px) {
+  #contact .contact-container .text h1 {
+    width: 40rem;
+  }
+
+  #contact .contact-container .text p {
+    width: 50rem;
+  }
+}
+
+@media only screen and (max-width: 1600px) {
+  #contact .contact-container .text p {
+    width: 40rem;
+    font-size: 25px;
+  }
+
+  #contact button {
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 1440px) {
+  #contact button {
+    margin-top: 0.5rem;
+    font-size: 20px;
+  }
+
+  #contact .contact-container .text h1 {
+    width: 35rem;
+  }
+
+  #contact .contact-container .text p {
+    width: 35rem;
+  }
+
+  #contact .contact-details .inner-text h2 {
+    font-size: 30px;
+  }
+
+  #contact .contact-details {
+    min-width: 30rem;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  #contact button {
+    font-size: 18px;
+  }
+
+  #contact .contact-details {
+    max-width: 35rem;
+  }
+
+  #contact .contact-container {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  #contact .contact-container .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  #contact .contact-container .right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #contact {
+    padding: 100px 0;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #contact .contact-container .text h1 {
+    font-size: 40px;
+  }
+
+  #contact .contact-container .text p {
+    font-size: 20px;
+  }
+
+  #contact .contact-details .icon {
+    font-size: 40px;
+  }
+
+  #contact .contact-details .inner-text span {
+    font-size: 16px;
+  }
+
+  #contact .contact-details .inner-text h2 {
+    font-size: 25px;
+  }
+
+  #contact .contact-details {
+    padding: 2rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #contact button {
+    font-size: 16px;
+  }
+
+  #contact .contact-container .text h1 {
+    font-size: 25px;
+  }
+
+  #contact .contact-container .text p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+
+  #contact {
+    padding: 50px 0;
+  }
+
+  #contact .contact-details .inner-text span {
+    font-size: 12px;
+  }
+
+  #contact .contact-details .inner-text h2 {
+    font-size: 18px;
+  }
+
+  #contact .contact-details {
+    padding: 1rem;
+  }
+
+  #contact .contact-details {
+    min-width: auto;
+    width: 20rem;
+  }
+
+  #contact .contact-container .text h1 {
+    width: auto;
+  }
+
+  #contact .contact-container .text p {
+    width: auto;
+  }
+
+  #contact .contact-details:first-child {
+    margin-bottom: 1rem;
+  }
+
+  #contact .contact-details .icon {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  #contact .contact-details {
+    min-width: auto;
+    width: 15rem;
+  }
+}

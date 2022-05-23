@@ -1,0 +1,74 @@
+#about {
+  padding: 100px 0;
+  color: #ecdbba;
+}
+
+#about .about-container {
+  width: 85%;
+  max-width: 1600px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: left;
+  margin-top: 100px;
+  grid-row-gap: 50px;
+  grid-column-gap: 40px;
+}
+
+#about .skill h6 {
+  font-family: "Overpass", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+#about .progress {
+  border-radius: 0;
+  height: 5px;
+  background-color: #383838;
+  border: none;
+}
+
+#about .progress .bg-success {
+  background: rgb(52, 103, 81);
+  background: linear-gradient(
+    90deg,
+    rgba(52, 103, 81, 1) 27%,
+    rgba(200, 75, 49, 1) 77%
+  );
+}
+
+@media only screen and (max-width: 1600px) {
+  #about .skill h6 {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  #about .about-container {
+    grid-template-columns: 1fr 1fr;
+    margin-top: 100px;
+    grid-row-gap: 50px;
+    grid-column-gap: 40px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  #about .about-container {
+    margin-top: 50px;
+  }
+
+  #about .skill h6 {
+    font-size: 16px;
+  }
+
+  #about {
+    padding: 50px 0;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  #about .about-container {
+    grid-template-columns: 1fr;
+    grid-row-gap: 30px;
+  }
+}

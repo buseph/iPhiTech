@@ -1,0 +1,97 @@
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+header .navbar-container {
+  height: 100px;
+  width: 85%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1600px;
+}
+
+header .page-name {
+  display: flex;
+  align-items: center;
+}
+
+header .page-name .my-image {
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+header .page-name h1 {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  margin-left: 1rem;
+  top: 3px;
+  position: relative;
+  color: #ecdbba;
+}
+
+header .nav {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  font-family: "overpass", sans-serif;
+  font-size: 25px;
+  gap: 5rem;
+}
+
+header .nav a {
+  text-decoration: none;
+  color: #ecdbba;
+  transition: 0.3s;
+}
+
+header .nav a:hover {
+  color: #c84b31;
+}
+
+header .nav i {
+  cursor: pointer;
+  font-size: 2rem;
+  display: none;
+  color: #ecdbba;
+}
+
+@media only screen and (max-width: 1600px) {
+  header .page-name h1 {
+    font-size: 25px;
+  }
+
+  header .nav {
+    font-size: 20px;
+    gap: 4rem;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  header .navbar-container {
+    grid-template-columns: 1fr 2fr;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  header .page-name h1 {
+    font-size: 1rem;
+    white-space: nowrap;
+  }
+
+  header .navbar-container {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  header .nav a {
+    display: none;
+  }
+
+  header .nav i {
+    display: block;
+  }
+}
