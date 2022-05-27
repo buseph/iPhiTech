@@ -1,0 +1,82 @@
+6AM FINAL AM REPORT
+
+Task: Eco expert
+
+Home Page
+[768px]
+1. Make the bullet and the heading one line - https://prnt.sc/skTZ9Ukl9ROa
+[425px]
+1. Fixed the banner. - https://prnt.sc/GzL8MUwy7_uc
+[Header]
+1. Upon checking there is already a "No products in the cart" text. - https://prnt.sc/H_g9V68-q3fV
+[Banner]
+1. Fixed clicking anything directs to the shop page.
+[Top Related Products]
+1. Upon checking spacing already fix. - https://prnt.sc/GCedOFE-lZ5D
+[New arrival]
+1.Upon checking filter function is working. In the video you can see the products below is changing - https://share.vidyard.com/watch/BEynatC53bdwqr1mDKreg9?
+[Footer]
+1. Wrong link in 'eco emart' text already fixed. - https://prnt.sc/PuGdLopExl2z
+2. Increased the sized of icons	from 16px to 20px - https://prnt.sc/4B6FGuZUuvMW
+[786px]
+1. Adjusted the text below the gift icon. - https://prnt.sc/wHJpo9MPTarV
+2. Moved the text to center - https://prnt.sc/wHJpo9MPTarV
+
+Best Seller Page
+1. Reduced the spacing above - https://prnt.sc/WDBPkMGFes_C
+2. Make the compare modal 1 line and add spaces between is already fix - Already fix
+https://prnt.sc/Uk3UU8WdTRs_
+
+Blog Page
+1. Removed right the border radius of the search bar - https://prnt.sc/qn3_QdrRvJyF
+
+Contact Page
+1. Reduced the spacing above. - https://prnt.sc/0Ua5L_r_bub-
+
+
+
+
+
+
+
+
+Task: Vitality Life
+
+Home Page
+1. Removed some of the testimonials. - https://share.vidyard.com/watch/8ABXPZRBDU3DKrvwWYJbGp
+Home - 768px
+1. Center the products - https://prnt.sc/yg1UtuSmLNEj
+Home Page - 425px
+1. Fixed testimonial
+
+Single Product Page
+1. Make the "select option" link look like a link. - https://prnt.sc/9EkxSHHRoIVQ
+
+About - 1024px
+1. Make the products full width - https://prnt.sc/7KwxiEZSzbhY
+
+Vitality Herbal Page
+1. Make the products full width but cant make it 4 columns - https://prnt.sc/_PYR48yp2Cv5
+
+Single Product - 768px
+1. Make the products full width - https://prnt.sc/HQDDeZQvq9Nn
+
+Single Page - 425px
+1. Fixed the spacing and alignment
+
+Shop Page - 768px
+1. Make the products full width - https://prnt.sc/eKUOmIa_HXYr
+
+Next
+1. N/A
+
+Roadblocks
+1. N/A
+
+Intern Concerns
+1. N/A
+
+Task tracker
+https://docs.google.com/document/d/1DMZcoiGQrG1OepC56i6zRMFUZ6euyTdaYYY6yDpbpWA/edit
+https://docs.google.com/document/d/1eWC_iu59brCaH_PxR0NiSEc5ru1FOhrpCjUMI7I0V0A/edit
+
