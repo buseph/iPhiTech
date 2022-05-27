@@ -1,0 +1,15 @@
+Task: Car Pet (Shopify training)
+
+Done:
+1. Downloaded the assets.
+2. Created a shopify store.
+3. nstalled shopify themekit.
+4. Connected shopify and vscode using themekit.
+5. Created blank page.
+6. Created header section and 2 sections.
+7. Created all the sections.
+8. Make sections mobile responsive.
+9. Created a schema preset.
+
+Vidyard
+https://share.vidyard.com/watch/PTknRuiWMoEVaebYsZK7gC?

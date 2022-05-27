@@ -1,0 +1,24 @@
+Task: Aimee - Website
+
+1. Linked menu buttons.
+2. Added header menu in some of the inner pages.
+3. Updated testimonial content.
+4. Remove "index.php" in slug.
+3. Fixed cut off favicon.
+
+[About Page]
+1. Updated "Apply Now" button. https://prnt.sc/rhgb7B9Yi6J9
+
+[Footer]
+1. Added "Terms of Service" in menu. - https://prnt.sc/-GUPfyVG8BdH
+2. Linked the menu. 
+
+[Terms of Service Page]
+1. Adjusted bullets. - https://prnt.sc/C7ONWVubVXTg
+
+[Contact Page]
+1. Radio button is working. - https://prnt.sc/H4bD9CsUa239
+2. Linked "Terms of Service" text on the tick box. - https://prnt.sc/Z96WjcB_Tf3O
+
+[Gallery Page]
+1. Created filter function. - https://share.vidyard.com/watch/nvtfnhvzv5DBd9Zv6ddMrW?

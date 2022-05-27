@@ -1,0 +1,29 @@
+Task: VitalitybyAnushi
+
+Done:
+1. Login Credentials.
+2. Explore the WPBakery Builder to be familiarized.
+
+Navigation Menu
+1. Moved the close button to the right and removed some space.
+
+Single Product Page
+1. Lessen the spacing between the image and the details.
+2. Fixed always changing spacing.
+[1024px]
+3. Added space on the left side and removed space at the top, also aligned the content. 
+[768px]
+4. Lessen spacing above the image product.
+5. Aligned the image, adjusted the padding left and right.
+6. Aligned the details section and the related products.
+
+Home Page - 768px
+1. Fixed the alignment and spacing of the announcement bar.
+2. Added margin to the testimonial section.
+3. Added margin to the instagram section.
+4. Make the navigation bar button visible by changing its color.
+
+About Page - 425px
+1. Change the background color to white.
+
+Task Tracker: https://docs.google.com/document/d/1eWC_iu59brCaH_PxR0NiSEc5ru1FOhrpCjUMI7I0V0A/edit

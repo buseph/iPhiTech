@@ -7,12 +7,14 @@ What's Done:
 Interns Project #15: Custom Website
 [Home Page] - Done
 1. Done "my work process"section.
-2. Done "contact section".
+2. Done contact section.
 3. Done footer section.
 
 [About Page]
 1. Done skill section.
 2. Done team section.
+
+Next: Finish the remaining sections.
 
 IMGUR:
 HOME PAGE
