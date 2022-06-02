@@ -1,0 +1,24 @@
+Task: Carrie Legal
+
+What's Done
+1. Make a backup using duplicator pro.
+2. Polished the header based on mockup | https://prnt.sc/QkcqjU6QIV4a
+3. Polished the footer based on mockup | https://prnt.sc/fQ51zmNCg75v
+4. Polished home page.
+5. Fixed mobile responsive of home page
+6. Fixed header mobile responsive
+7. Fixed footer mobile responsive
+8. Finished polishing about page.
+9. Fixed mobile responsive of about page.
+
+Task: Exquise Car
+
+What's Done
+1. Fixed homepage second section responsive.
+
+Roadblocks
+1. Make a backup
+1. Gutenberg builder is very laggy on my device.
+
+Intern Concerns
+1. N/A

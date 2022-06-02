@@ -1,0 +1,107 @@
+6AM Final Report
+
+Task: Eco e-Mart
+
+What's Done
+1. Created a backup | https://prnt.sc/Y5pOMXT1_CPD
+Home Page
+[Categories Section]
+1. Adjusted slider's button | https://prnt.sc/7OILs8UYjj85
+[Footer]
+1. Added hover on socmend icons | https://share.vidyard.com/watch/LN9DM7KTArnFuUfYAY9SLo?
+
+About Page
+1. Removed the https://prnt.sc/TwHg2LgG26yU
+
+Contact Us Page
+1. Increased fontweight of "OUR BUSINESS HOURS" text  | https://prnt.sc/L9U4ve8-U2U-
+
+FAQ Page
+[768px Wide]
+1. This section already fixed | https://prnt.sc/LVGcticY4fMf
+[425px Wide]
+1. Centered email | https://prnt.sc/5G6mDeA8HXv4
+[425px Wide]
+1. Centered email | https://prnt.sc/5G6mDeA8HXv4
+2. Reduced spacing between icons and logo | https://prnt.sc/Rg2_e1dLDNa7
+3. Reduced spacing of footer link's container | https://prnt.sc/bXCbxCDw_s6I
+4. Reduced spacing between email input and copyright section | https://prnt.sc/nkzVDjpO62vk
+5. Added link to logo | https://prnt.sc/mxm5vmyI-uTT
+
+
+Task: Carrie Legal
+
+What's Done
+1. Make a backup using Duplicator Pro | https://prnt.sc/PQfSkUoxXSTn
+Home Page
+1. Fixed taglines line height | https://prnt.sc/99yM-aDTYj2T
+2. Fixed "Why Choose Us" section | https://prnt.sc/3qLT7oLuCy3T
+Home Page - 320px wide
+1. Center paragraph | https://prnt.sc/LjAjgQVLx67m
+2. Added Space | https://prnt.sc/AOQ8JS4WkHPg
+3. Center cards paragraph | https://prnt.sc/G41P8HCTykQi
+4. Increased space between cards| https://prnt.sc/fFlhYJHKpv6Y
+5. Center footer paragraph and icons | https://prnt.sc/7kASIYNEHVg3
+6. Lessen the spaces between | https://prnt.sc/yQIxGR6RSoOp
+7. Make the cards same size | https://prnt.sc/M9sHvh_1Gj6q
+8. Center cards content | https://prnt.sc/U34spQZhowP8
+9. Make the testimonial same  size | https://prnt.sc/bfhDgi4zPQpX
+[Header]
+1. Fixed the line height | https://prnt.sc/sBIrdZAnWzVZ
+2. Fixed the line height | https://prnt.sc/E_8XTAGO_vK0
+3. Fixed the line height and color of menu text | https://prnt.sc/-eDLta0Xb9aL
+4. Change the color of email text | https://prnt.sc/cDpmBssMPyC3
+[Banner]
+1. Fixed the line heights and font weights | https://prnt.sc/yjfuh4pmCv4D
+2. Added hover effect to the button | https://prnt.sc/HZZWYAPs1cj3
+[Our Mission]
+1. Fixed fonts | https://prnt.sc/kCQ3pjCjpNM1
+[Our Service]
+1. Fixed heading | https://prnt.sc/SMm5R_VVc8jr
+1. Fixed post heading | https://prnt.sc/nU-3o5861Cnp
+[Our Success Story]
+1. Fixed heading | https://prnt.sc/usauAv-cl3qg
+2. Fixed image size | https://prnt.sc/uW3b6gF1jXSA
+3. Fixed testimonial job font | https://prnt.sc/O0fBrzNckJ4y
+[Sign Up]
+1. Fixed heading | https://prnt.sc/fryeOA8lSPVS
+2. Fixed button font weight | https://prnt.sc/drPUMVU8L3kn
+3. Lessen the spacing between columns | https://prnt.sc/589EAcwopLeo
+[Footer]
+1. Fixed "Information" font | https://prnt.sc/FH-nMY_QevAi
+1. Fixed "Latest News" heading | https://prnt.sc/SrUWu2VD3XzF
+2. Fixed "Latest News" fonts | https://prnt.sc/wm5zk7rd8LoA
+
+About Us Page
+1. Fixed banner heading | https://prnt.sc/FgqgnFahKvkG
+2. Fixed taglines line height | https://prnt.sc/9LLT3uH4rcb-
+3. Fixed headings | https://prnt.sc/tKalz97XKr7w
+4. Fixed the font weights of paragraphs | https://prnt.sc/DQ5z7leXOjiH
+[Banner]
+1. Increased spacing | https://prnt.sc/dK2E3PHXo3Mt
+
+Contact Us Page
+1. Increased tagline font weight | https://prnt.sc/pVAH3PY0tNm6
+2. Fixed sections heading | https://prnt.sc/pLWtIIPaOa1_
+3. Fixed schedule appointment's paragraph font | https://prnt.sc/O50PzHXKI7wg
+
+Service Page
+1. Fixed banner heading | https://prnt.sc/WqOs2dAuFbHt
+2. Fixed tagline's line height | https://prnt.sc/o9pWDt_iFbm1
+3. Fixed "Our Service" section's heading | https://prnt.sc/oKRtja1uCXz6
+4. Fixed posts heading | https://prnt.sc/dWsgnpar9vE2
+
+Success Stories Page
+1. Fixed banner heading | https://prnt.sc/SiB1HzjdUjoR
+2. Fixed tagline font | https://prnt.sc/T1P3Ny5OHXWI
+3. Fixed "Success Stories" heading | https://prnt.sc/S1kp4l85NSSd
+
+Immigration Page
+1. Fixed tagline font | https://prnt.sc/JMgCkBuesia5
+2. Fixed heading | https://prnt.sc/hV8xwqCvZtNU
+
+
+
+
+
+
