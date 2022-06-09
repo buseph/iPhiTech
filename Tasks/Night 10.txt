@@ -1,0 +1,58 @@
+Task: Michael H
+
+What's Done
+1. Created a backup of the website using duplicator pro.
+2. Removed google and twitter icons in header | https://prnt.sc/7i6eDnmEyVYh
+3. Updated about us paragraphs | https://prnt.sc/oj7UH5QbsVNC
+4. Removed "Book Tours and Attractions" | https://prnt.sc/r3tJdZ5VL1JJ
+5. Improved pricing blocks | https://prnt.sc/nemO_hFv9_FN
+6. Removed "booking.com" box in footer | https://prnt.sc/xp1ech35WSX6
+7. Added the "Daisy Hill Koala Park" block but not changed and image | https://prnt.sc/gj9neK-YsM-B
+8. Added Rooms sub-menu and inserted links | https://prnt.sc/OkXhPQ4Tw0s_
+
+
+Task: Carrie Legal
+
+1. Created a backup of the website using duplicator pro.
+2. Enhanced Carrie blurry image | https://prnt.sc/fam6ECD7HfnL
+
+Home Page
+1. Changed the image | https://prnt.sc/0sxhudeCrU5g
+2. Make the paragraphs one line | https://prnt.sc/5xVg2WVqZDKw
+3. Fixed cards alignment | https://prnt.sc/ewvtSxphCNH5
+Home - 768px wide
+1. Aligned testimonials | https://prnt.sc/oyufXcldNzmf
+375px wide
+1. Make the card title one line | https://prnt.sc/DF4eEFpfnzTt
+2. Make the news letter heading one line | https://prnt.sc/CxTe3_GhjItf 
+3. Make "Why choose us" section's paragraph one line | https://prnt.sc/MrDXwaVliME9
+
+About Page
+1. Aligned images with the texts | https://prnt.sc/61ZV39btySer
+375px wide
+1. Fixed paragraph with one word in a line | https://prnt.sc/i5-T2BP31vvu
+
+Service Page
+1. Fixed cards alignments | https://prnt.sc/Bl6xOMoTiIcu
+375px wide
+1. Fixed "News letter" heading | https://prnt.sc/vxQzt2pd_7JX
+
+Contact Page
+1. Adjusted paragraph | https://prnt.sc/Bd7SThXAw4Mv
+2. Added space between columns in "expertice.com" section and increased bottom padding | https://prnt.sc/XdNhP1rGxO4b
+3. Adjusted form section's paragraph | https://prnt.sc/N21Fq7m5_ZC6
+375px wide
+1. Fixed "Schedule an Appointment​" section spacing and fonts line height | https://prnt.sc/0aSQ4jtO964W
+
+Single News Page
+1. Aligned tags and share now elements | https://prnt.sc/prIB8Tt0ZyHQ
+2. Aligned content to header | https://prnt.sc/rHAudQOyz76l 
+
+Success Stories - 768px wide
+1. Fixed video columns | https://prnt.sc/E8WGLvPiV2tr
+2. Fixed tags | https://prnt.sc/oA9TR9myKEli
+3. Fixed "Let's work together" heading | https://prnt.sc/PREy0SpLUYDx
+375px wide
+1. Fixed first section's heading and paragraph | https://prnt.sc/CVMdysISSLr5
+2. Fixed "News letter" heading | https://prnt.sc/ewu5sDtUgcLF
+

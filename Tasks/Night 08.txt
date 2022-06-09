@@ -1,0 +1,71 @@
+Task: Aimee
+
+What's Done
+1. Make a backup using duplicator pro.
+2. Added "contact" page in header navigation | https://prnt.sc/bNh4-YfJ5x7d
+3. Removed banner when opening menu | https://prnt.sc/_nqa7tZc1kyb
+4. Center the menu | https://prnt.sc/RNw8rrLXLXeB
+5. Center the circles | https://prnt.sc/-WhuUHKG3V1W
+6. Center the circles | https://prnt.sc/rp38fRcW33t9
+7. Make appointment section full width | https://prnt.sc/ARPVcgYGBwgi
+8. Add pointer on pricing tab | https://prnt.sc/r7FMCnsbRIhG
+9. Exqualized the height of basic pricing | https://prnt.sc/ao6e6uEma3FE
+10. Replaced Kadence gallery block with Simply Gallery block
+
+Task Tracker
+1. https://docs.google.com/document/d/19I_JZrk5ZToGRFDYQYz9OAoQSZuqI44fhm6Uyl9EvCU/edit?usp=sharing
+
+
+
+Task: Carrie Legal - Page Optimization
+
+1. Removed unused plugins 
+1.1 Removed ElementsKit Lite plugin
+1.2 Really Simple SSL
+1.3 Site Reviews
+
+2. Installed plugins
+2.1 Smush plugin for image optimatizion
+2.2 WP-Optimize for page cache and css & js minify
+
+3. Removed unused pages
+3.1 Privacy Policy
+3.2 Elementor #8
+6AM Final Report
+
+Task: Aimee
+
+What's Done
+1. Make a backup using duplicator pro.
+2. Added "contact" page in header navigation | https://prnt.sc/bNh4-YfJ5x7d
+3. Removed banner when opening menu | https://prnt.sc/_nqa7tZc1kyb
+4. Center the menu | https://prnt.sc/RNw8rrLXLXeB
+5. Center the circles | https://prnt.sc/-WhuUHKG3V1W
+6. Center the circles | https://prnt.sc/rp38fRcW33t9
+7. Make appointment section full width | https://prnt.sc/ARPVcgYGBwgi
+8. Add pointer on pricing tab | https://prnt.sc/r7FMCnsbRIhG
+9. Exqualized the height of basic pricing | https://prnt.sc/ao6e6uEma3FE
+10. Replaced Kadence gallery block with Simply Gallery block
+
+Task Tracker
+1. https://docs.google.com/document/d/19I_JZrk5ZToGRFDYQYz9OAoQSZuqI44fhm6Uyl9EvCU/edit?usp=sharing
+
+
+
+
+6AM Final Report
+
+Task: Carrie Legal - Page Optimization
+
+1. Removed unused plugins 
+1.1 Removed ElementsKit Lite plugin
+1.2 Really Simple SSL
+1.3 Site Reviews
+
+2. Installed plugins
+2.1 Smush plugin for image optimatizion
+2.2 WP-Optimize for page cache and css & js minify
+
+3. Removed unused pages
+3.1 Privacy Policy
+3.2 Elementor #8

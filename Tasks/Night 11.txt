@@ -1,0 +1,14 @@
+Task: Alastair QA
+
+What's Done
+1. Done checking desktop size
+1.1 Home Page
+1.2 What Do We Do Page
+1.3 Our Story Page
+1.4 Technology Page
+
+2. QA all the breakpoint
+2.1 Home Page
+2.2 What Do We Do Page
+2.3 Our Story Page
+2.4 Technology Page
