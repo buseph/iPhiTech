@@ -1,0 +1,17 @@
+Task: Rose
+
+What's Done
+1. Duplicated front page.
+2. Adjust alignment - https://prnt.sc/kphRTZkkLgeK
+3. Removed "and complete them" text - https://prnt.sc/RVmcgCIPL7DN
+4. Duplicated "Request a code" page.
+5. Created the layout - https://imgur.com/a/8h6enGL
+
+What's Next
+1. N/A
+
+Roadblocks
+1. N/A
+
+Concerns
+1. N/A
